@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "795862055555",
+    "project_id": "loginapp-2ca87",
+    "storage_bucket": "loginapp-2ca87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795862055555:android:65309327638856b5e9f9b6",
+        "android_client_info": {
+          "package_name": "com.nupura.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795862055555-96s4p4qul55phmlvbatdi74ais8fqb9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACKOUINkZmDP_JnIYHcvBSxUiVX82wLCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795862055555-96s4p4qul55phmlvbatdi74ais8fqb9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
